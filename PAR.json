@@ -1,0 +1,175 @@
+{
+   "CreatedBy":"????",
+   "Account":"PyGuid",
+   "RequestingTradingPartnerID":"dd1a754a-01e9-4b5e-ad31-ce14c9d65e62",
+   "AssignedTradingPartnerID":"98caa74d-1bd2-440e-b6c2-3f2e0c00b0f9",
+   "CaseType":"PickupAndRelease",
+   "ServiceLevel":"Basic",
+   "Equipment":"Trailer",
+   "Mode":"LTL",
+   "PaymentTerm":"Inbound Prepaid",
+   "HotPriority":"true",
+   "PickupNotes":"",
+   "DeliveryNotes":"",
+   "OrderRefs":{
+      "BOL":"",
+      "TrackingNumber":"",
+      "InvoiceNumber":"",
+      "PickupNumber":"2577983804N",
+      "DeliveryNumber":"4342525",
+      "PONumber":"W192356788",
+      "SONumber":""
+   },
+   "OrderOrigin":{
+      "CompanyName":"THE HOME DEPOT 6006",
+      "Address1":"4565 Redlands Ave",
+      "Address2":"Test2",
+      "City":"Perris",
+      "State":"CA",
+      "PostalCode":"92571",
+      "Country":"United States",
+      "Phone":"(999)-999-9999",
+      "Email":"test@gmail.com",
+      "ContactName":"TestingTeam"
+   },
+   "OrderDestination":{
+      "CompanyName":"Farmers Home",
+      "Address1":"11414 Mathis Ave",
+      "Address2":"22, Test",
+      "City":"Farmers",
+      "State":"TX",
+      "PostalCode":"75234",
+      "Country":"United States",
+      "Phone":"(999 999 9999)",
+      "Email":"test@gmail.com",
+      "ContactName":"test 2"
+   },
+   "BillTo":{
+      "CompanyName":"Home Depot",
+      "Address1":"2455 Paces Ferry Rd. Nw",
+      "Address2":"",
+      "City":"Atlanta",
+      "State":"GA",
+      "PostalCode":"30339",
+      "Country":"United States",
+      "Phone":"abcd 123456",
+      "Email":"test@gmail.com",
+      "ContactName":""
+   },
+   "OrderAgent":{
+      "CompanyName":"Farmers Home",
+      "Address1":"11414 Mathis Ave",
+      "Address2":"test 2",
+      "City":"Farmers",
+      "PostalCode":"75234",
+      "State":"TX",
+      "Country":"United States"
+   },
+   "Items":[
+      {
+         "SkuName":"1003897288",
+         "SkuDescription":"ASSEMBLED 30X34.5X24 IN. BASE KITCHE",
+         "TotalWeight":1.0,
+         "WeightUOM":"lb",
+         "ItemQuantity":1,
+         "ItemWeight":0,
+         "PackageType":"",
+         "PackageWeight":0,
+         "PackageQuantity":1,
+         "DangerousGoods":0,
+         "HazmatClass":"123",
+         "FreightClass":"",
+         "NMFC":"",
+         "MaxTemp":"",
+         "MinTemp":"",
+         "OnHandlingUnit":[
+            {
+               "pyID":"DPB002993279"
+            }
+         ],
+         "DIMS":{
+            "Length":"24",
+            "Width":"69.199",
+            "Height":"34.5",
+            "UOM":"Inch"
+         }
+      },
+      {
+         "SkuName":"1003897288",
+         "SkuDescription":"ASSEMBLED 30X34.5X24 IN. BASE KITCHE",
+         "TotalWeight":1.0,
+         "WeightUOM":"lb",
+         "ItemQuantity":3,
+         "ItemWeight":0,
+         "PackageType":"",
+         "PackageWeight":0,
+         "PackageQuantity":1,
+         "DangerousGoods":0,
+         "FreightClass":"",
+         "NMFC":"",
+         "MaxTemp":"",
+         "MinTemp":"",
+         "OnHandlingUnit":[
+            {
+               "pyID":"DPB002993277"
+            }
+         ],
+         "DIMS":{
+            "Length":"24",
+            "Width":"69.199",
+            "Height":"34.5",
+            "UOM":"Inch"
+         }
+      }
+   ],
+   "HandlingUnit":[
+      {
+         "HandlingUnitType":"Pallet",
+         "HandlingUnitQuantity":2,
+         "HandlingUnitClientID":"DPB002993277",
+         "FreightClass":"",
+         "TotalWeight":44,
+         "TareWeight":1.0,
+         "DIMS":{
+            "Length":"",
+            "Width":"",
+            "Height":"",
+            "UOM":""
+         }
+      },
+      {
+         "HandlingUnitType":"Pallet",
+         "HandlingUnitQuantity":2,
+         "HandlingUnitClientID":"DPB002993278",
+         "FreightClass":"",
+         "TotalWeight":44,
+         "TareWeight":1.0,
+         "DIMS":{
+            "Length":"",
+            "Width":"",
+            "Height":"",
+            "UOM":""
+         }
+      },
+      {
+         "HandlingUnitType":"Pallet",
+         "HandlingUnitQuantity":4,
+         "HandlingUnitClientID":"DPB002993279",
+         "FreightClass":"",
+         "TotalWeight":44,
+         "TareWeight":1.0,
+         "DIMS":{
+            "Length":"",
+            "Width":"",
+            "Height":"",
+            "UOM":""
+         }
+      }
+   ],
+   "PickupRequestTWStart":"02/16/24 11:00 AM",
+   "PickupRequestTWEnd":"02/16/24 11:00 AM",
+   "PickupGuaranteed":"true",
+   "DeliverByTWStart":"",
+   "DeliverByTWEnd":"",
+   "DeliveryGuaranteed":""  
+   }

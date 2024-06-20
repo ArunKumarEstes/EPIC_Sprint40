@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                	
+    
+    
+    
+    <soap:Body>
+                                		
+        
+        
+        
+        <MLW ArriveOutsideGeo="false" Cmd="7" CustNo="2324639" DevId="2b70499f-REG-f4b3b04c-af36829d" DriverName="Adam Samler Driver" GroupId="6012" GroupName="Starbucks General" Id="testdriveradam" LTStamp="2023-09-08T11:26:01" LocationAddress="8574 West FM" LocationCity="Wylie" LocationKey="2324639" LocationPostalCode="750989408" LocationState="TX" Name="3871" OrgId="EXLA" RouteId="61470:803514" RouteName="391 RAN 2" SType="0" StopId="10607688" TStamp="2024-06-20T12:43:40" TruckId="391 RAN 2" Value="0" cmd="8">
+                                                			
+            
+            
+            
+            <FieldData>
+                                                                				
+                
+                
+                
+                <Field Key="" Name="" Value="Bad Address"/>
+                                                                			
+            
+            
+            
+            </FieldData>
+                                                			
+            
+            
+            
+            <GPS Direction="0" FixQuality="A" Latitude="42.4833853" Longitude="-71.4485795" NoOfSat="7" Speed="0.063565631210803983" TStamp="2023-08-21T15:26:01"/>
+                                                			
+            
+            
+            
+            <Job DispId="1111470000" Id="14226768" JType="2" JobId="14226768" Name="22418362" Status="3">
+                                                                				
+                
+                
+                
+                <Extension Name="UDOLEGID" Value="PAR-19173"/>
+                                                                				
+                
+                
+                
+                <Extension Name="CARRIERCODE" Value="PAR-19173"/>
+                                                                				
+                
+                
+                
+                <Extension Name="SERVICETYPE" Value="PAR-19173"/>
+                                                                				
+                
+                
+                
+                <Item ItemId="21410269" Key="" LoadedOnCart="False" Name="Things" Status="1">
+                                                                                					
+                    
+                    
+                    
+                    <Extension Name="ITEMCUSTOM" Value="PAR-19173"/>
+                                                                                					
+                    
+                    
+                    
+                    <Extension Name="ITEMDESCRIPTION" Value="PAR-19173"/>
+                                                                                					
+                    
+                    
+                    
+                    <Extension Name="ITEMNAME" Value="PAR-19173"/>
+                                                                                				
+                
+                
+                
+                </Item>
+                                                                			
+            
+            
+            
+            </Job>
+                                                			
+            
+            
+            
+            <Extension Name="STOPTYPE" Value="PAR-19173"/>
+                                                		
+        
+        
+        
+        </MLW>
+                                	
+    
+    
+    
+    </soap:Body>
+                
+
+
+
+</soap:Envelope>
